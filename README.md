@@ -1,9 +1,6 @@
 # p5starter
 
-Download this starter code!
+Write code in `sketch.js`
 
-
-
-Set up a server: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/
-
-Set the folder to the starter code.
+Use the p5 reference: https://p5js.org/reference/
+#JS-p5-Song-Visualizer
